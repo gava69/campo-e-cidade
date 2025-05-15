@@ -1,0 +1,14 @@
+body {
+    background-color: #fffde7; /* amarelo claro */
+    color: #33691e; /* verde-escuro para contraste */
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h3 {
+    font-weight: bold;
+}
+
+img {
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
